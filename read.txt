@@ -1,0 +1,10 @@
+https://ncov.dxy.cn/ncovh5/view/pneumonia?scene=2&clicktime=1579584467&enterid=1579584467&from=timeline&isappinstalled=0
+
+dingxiang.py
+爬取中国疫情实时数据（地区，确诊数，死亡数，治愈数）
+含港澳台，保存为 csv 文件，文件名为截至更新时间
+
+get_map.py
+生成热力地图
+
+只需要运行 dingxiang.py 即可
